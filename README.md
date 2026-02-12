@@ -1,1 +1,1 @@
-# es_laboratorio
+Repository contenente gli esercizi di informatica 
